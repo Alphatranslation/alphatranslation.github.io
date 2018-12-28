@@ -1,0 +1,131 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+	padding-bottom: 0px;
+}
+
+.box{
+  display: -webkit-flex; /* Safari */
+  display: flex;
+}
+
+h1{
+	margin: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+ 
+
+.header{
+	padding-top: 300px;
+	padding-bottom: 300px;
+	text-align: center;
+}
+ 
+.aim_item{
+	margin-bottom: -2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #add388;
+	border-bottom-width: 2px;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: 650px;
+}
+
+.aim_image{
+	width: 60%;
+}
+
+.services_item {
+	text-align: center;
+	padding-top:60px;
+	padding-bottom: 60px;
+}
+
+.services_iamge {
+	width:60%;
+	margin-bottom: 30px;
+}
+
+.services_title {
+	margin-top: 20px;
+	font-size: 46px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.contact_title{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.services_content_item_left{
+	color:white;
+	margin-bottom: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.services_content_item_right{
+	color:white;
+	margin-bottom: 40px;
+	padding-left: 20px;
+	padding-right: 30px;
+}
+
+.services_content_left{
+	 
+}
+
+.services_content_right{ 
+}
+
+.contact_icon{
+	margin-right: 10px;
+	font-size: 17px;
+}
+
+.contact_item{
+	color:#fff;
+	align-items:center;
+	margin-bottom: 30px;
+}
+
+.contact_item p{
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
+.color_blue{
+	color:#0d6fb8;
+}
+
+.color_green{
+	color:#add388;
+}
+
+
+.bg_seablue{
+	background-color:#0d6fb8;
+}
+
+.bg_skyblue{
+	background-color:#e0f2fc;
+}
+
+.bg_green{
+	background-color:#add388;
+}
+
+.bg_gray{
+	background-color:#e6e6e6;
+}
+
+.footer{
+	background-color: #f5f5f5;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	line-height: 1.6;
+}
