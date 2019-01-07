@@ -23,15 +23,14 @@ h1{
 	text-align: center;
 }
  
-.aim_item{
-	margin-bottom: -2px;
-	border-bottom-style: dotted;
-	border-bottom-color: #add388;
-	border-bottom-width: 2px;
+.aim_item{ 
+	border-top-style: dotted;
+	border-top-color: #add388;
+	border-top-width: 2px;
 	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 30px;
-	height: 650px;
+	margin-top:-1px; 
 }
 
 .aim_image{
