@@ -128,3 +128,9 @@ h1{
 	padding-bottom: 20px;
 	line-height: 1.6;
 }
+
+@media screen and (min-width: 768px) {
+    .advantage_item_chinese_title {
+        padding-top: 45px;
+    }
+}
